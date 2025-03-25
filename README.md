@@ -22,10 +22,7 @@ Aplikasi kasir sederhana yang dibangun menggunakan PyQt5 dengan antarmuka berbas
 **1. Desain Antarmuka di QTDesigner**  
 ![Desain UI](asset/capture-from-qt-designer.png)
 
-**2. Konversi File .ui ke .py**  
-![Konversi UI](asset/proses-1.png)
-
-**3. Tampilan Aplikasi Saat Dijalankan**  
+**2. Tampilan Aplikasi Saat Dijalankan**  
 ![Running App](asset/capture-1.png)
 ![Running App](asset/capture-2.png)
 ![Running App](asset/capture-3.png)
