@@ -30,5 +30,4 @@ Aplikasi kasir sederhana yang dibangun menggunakan PyQt5 dengan antarmuka berbas
 ![Running App](asset/capture-2.png)
 ![Running App](asset/capture-3.png)
 
-## ⚙️ Instalasi
-1. Clone repository:
+
